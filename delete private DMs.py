@@ -4,7 +4,7 @@ client = discord.Client()
 token = "<your discord token here>"
 
 whitelist = [
-    # discord guild ids you don't want to leave
+    # discord Channel ids you don't want to leave/delete
     4319814918943,
     4123894014211,
 ]

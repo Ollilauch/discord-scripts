@@ -4,7 +4,7 @@ client = discord.Client()
 token = "<your discord token here>"
 
 whitelist = [
-    # discord friend ids you don't want to leave
+    # discord friend ids you don't want to remove
     13232379844971,
     43124219812911
 ]
